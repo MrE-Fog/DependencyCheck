@@ -8,7 +8,7 @@ httplib2==0.11.3
 idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
-lxml==4.2.1
+lxml==4.9.1
 MarkupSafe==1.0
 pymongo==3.6.1
 PySimpleSOAP==1.16.2
