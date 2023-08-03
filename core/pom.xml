@@ -525,7 +525,7 @@ Copyright (c) 2012 Jeremy Long. All Rights Reserved.
                 <dependency>
                     <groupId>org.mortbay.jetty</groupId>
                     <artifactId>jetty</artifactId>
-                    <version>6.1.0</version>
+                    <version>6.1.23</version>
                     <scope>test</scope>
                     <optional>true</optional>
                 </dependency>
